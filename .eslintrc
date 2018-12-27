@@ -6,7 +6,8 @@
   "parser": "babel-eslint",
   "extends": "eslint:recommended",
   "globals": {
-    "GLOBAL": true
+    "GLOBAL": true,
+    "Promise": true
   },
   "rules": {
     "no-console": 0,
